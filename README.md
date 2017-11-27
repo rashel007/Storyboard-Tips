@@ -22,3 +22,6 @@ We can update constraints in 3 way after setting them. After chnage object posit
     
 # Orphaned Outlets and Actions 
 Sometimes we creates outlets or action in view controller and remove that outlet or action from view controller without removing the reference from the view.  And then if we run our code then we will get NSUnknownKeyException. Easy way to do this is Right click in your viewcontroller in story board (top yellow button) and look for the yellow warning button and remove it. 
+
+# Formatting Code
+Select area you want to formate then hit controll + I . Or hit cmd + A to select all and then hit control + I.
